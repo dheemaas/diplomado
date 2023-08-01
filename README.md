@@ -1,3 +1,3 @@
-# diplomado
+
 Diplomado de Optometria
 
